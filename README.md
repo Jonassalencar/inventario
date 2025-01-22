@@ -14,4 +14,4 @@ Um sistema simples de gerenciamento de produtos que demonstra os conceitos de **
 
 ## Como Usar
 1. Clone este repositório.
-2. Execute `main.py` para iniciar os testes.
+2. Execute `gui.py` para iniciar os testes.
